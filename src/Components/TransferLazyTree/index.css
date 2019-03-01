@@ -1,0 +1,38 @@
+.transfer-lazy-tree {
+  display: flex;
+  margin-top: 20px;
+  height: 530px;
+}
+
+.transfer-lazy-tree .center-wrapper {
+  display: flex;
+  width: 5%;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 0 24px;
+}
+
+.transfer-lazy-tree .left-wrapper {
+  width: 45%;
+  border: 1px solid #e6e6e6;
+  margin-left: 15px;
+}
+
+.transfer-lazy-tree .left-wrapper .left-title h3 {
+  line-height: 36px;
+  height: 36px;
+  background-color: #e6e6e6;
+  text-align: center;
+}
+
+.transfer-lazy-tree .right-wrapper {
+  width: 45%;
+  border: 1px solid #e6e6e6;
+}
+
+.transfer-lazy-tree .right-wrapper .right-title h3 {
+  line-height: 36px;
+  height: 36px;
+  background-color: #e6e6e6;
+  text-align: center;
+}

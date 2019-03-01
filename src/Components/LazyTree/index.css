@@ -1,0 +1,11 @@
+.lazy-tree {
+  height: 100%;
+}
+
+.lazy-tree .ev_tree_selected {
+  background-color: transparent;
+}
+
+.lazy-tree .lazy-tree-input {
+  margin: 16px;
+}
